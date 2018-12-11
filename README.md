@@ -19,13 +19,10 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 ## Days
 
-| Day                                | Part One       | Part Two       |
-| ---------------------------------- | :------------: | :------------: |
-| Day 1: Chronal Calibration         | ⭐️             | 🕗 In progress |
-| Day 2: Inventory Management System | 🕗 In progress | 🕗 In progress |
-| Day 3: Inventory Management System | 🕗 In progress | 🕗 In progress |
-| Day 4: Repose Record               | 🕗 In progress | 🕗 In progress |
-| Day 5: Alchemical Reduction        | 🕗 In progress | 🕗 In progress |
+| Day                                |    Part One    | Part Two |
+| ---------------------------------- | :------------: | :------: |
+| Day 1: Chronal Calibration         |       ⭐️       |    ⭐️    |
+| Day 2: Inventory Management System | 🕗 In progress |
 
 ### Let's connect
 
